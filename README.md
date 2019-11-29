@@ -11,7 +11,7 @@ A mini dictionary app for your desktop, made with python tkinter.
 
 pytdict.png : image
 
-Json: jason file containng all the words 
+Json: json file containng all the words 
 
 myDictionary.py: python script for the project 
 
