@@ -18,6 +18,6 @@ myDictionary.py: python script for the project
 Used Json file to store the words. contains millions of words and its meaning 
 
 
-
+Can be used for young programmers to build on 
 
 Awesome project*
