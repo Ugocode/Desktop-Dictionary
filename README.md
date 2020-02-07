@@ -20,4 +20,9 @@ Used Json file to store the words. contains millions of words and its meaning
 
 Can be used for young programmers to build on 
 
+# How to use
+
+Simply fill in a word or phrase and get the meaning of the word or phrase 
+
+
 Awesome project*
